@@ -1,0 +1,15 @@
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\bin\Debug\net6.0\JogoDaVelha.exe
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\bin\Debug\net6.0\JogoDaVelha.deps.json
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\bin\Debug\net6.0\JogoDaVelha.runtimeconfig.json
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\bin\Debug\net6.0\JogoDaVelha.dll
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\bin\Debug\net6.0\JogoDaVelha.pdb
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\obj\Debug\net6.0\JogoDaVelha.csproj.AssemblyReference.cache
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\obj\Debug\net6.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\obj\Debug\net6.0\JogoDaVelha.AssemblyInfoInputs.cache
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\obj\Debug\net6.0\JogoDaVelha.AssemblyInfo.cs
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\obj\Debug\net6.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\obj\Debug\net6.0\JogoDaVelha.dll
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\obj\Debug\net6.0\refint\JogoDaVelha.dll
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\obj\Debug\net6.0\JogoDaVelha.pdb
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\obj\Debug\net6.0\JogoDaVelha.genruntimeconfig.cache
+E:\Projetos\C#\Academia Athos\0_Desafios\Desafio_01_JogoDaVelha\Desafio_01_JogoDaVelha\obj\Debug\net6.0\ref\JogoDaVelha.dll
