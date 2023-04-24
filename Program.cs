@@ -12,7 +12,6 @@
         static void Main(string[] args) {
             Console.Title = "********* Jogo da Velha # ***************";
             IniciarJogo();
-            reiniciarJogo();
         }
         public static void IniciarJogo() {
             Console.ForegroundColor = ConsoleColor.Cyan;
@@ -29,14 +28,17 @@
                 } else {
                     switch (nivelDeJogo) {
                         case 'f':
+                            Thread.Sleep(500);
                             nivelFacil();
                             consolidarJogada();
                             break;
                         case 'n':
+                            Thread.Sleep(500);
                             nivelNormal();
                             consolidarJogada();
                             break;
                         case 'd':
+                            Thread.Sleep(500);
                             nivelDificil();
                             consolidarJogada();
                             break;
@@ -47,6 +49,7 @@
 
             }
 
+            reiniciarJogo();
         }
 
         public static void selecionarModoDeJogo() {
@@ -117,6 +120,7 @@
                 case 's':
                     jogoIniciado = true;
                     Console.Clear();
+                    resetarTabuleiro();
                     IniciarJogo();
                     break;
                 case 'n':
@@ -136,6 +140,17 @@
             }
 
             Console.ResetColor();
+        }
+
+        public static void resetarTabuleiro() {
+            numeroDeRodadas = 1;
+            vencedor = false;
+            empate = false;
+            for (int linha = 0; linha < tabuleiro.GetLength(0); linha++) {
+                for (int coluna = 0; coluna < tabuleiro.GetLength(1); coluna++) {
+                    tabuleiro[linha, coluna] = "-";
+                }
+            }
         }
 
         public static void desenharTabuleiro() {
@@ -175,6 +190,7 @@
                 Console.WriteLine();
             }
         }
+
 
         public static void receberCoordenadas() {
             Console.Write("\n\tInforme a linha da Jogada: ");
